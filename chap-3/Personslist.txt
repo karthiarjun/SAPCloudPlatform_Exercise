@@ -1,0 +1,11 @@
+#
+#Fri Mar 03 08:30:04 UTC 2017
+Type=HTTP
+Authentication=NoAuthentication
+WebIDEUsage=odata_gen
+Name=Personslist
+WebIDEEnabled=true
+CloudConnectorVersion=2
+ProxyType=Internet
+URL=https://personslistservice<accountname>.hanatrial.ondemand.com/personslist-jpa/personslist.svc/
+WebIDESystem=PERS
